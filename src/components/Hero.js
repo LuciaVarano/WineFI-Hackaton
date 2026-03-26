@@ -17,7 +17,7 @@ export default function Hero() {
                 <img src="/images/card.png" className="absolute h-50 rounded-3xl -translate-45 -rotate-3 drop-shadow-xl"/>
             </div>
 
-            <img src="/images/chevron.svg" className="absolute right-1/30 -translate-x-1/2 bottom-5 size-20 animate-bounce"/>
+            <img src="/images/chevron.svg" className="absolute right-1/30 -translate-x-1/2 bottom-5 size-20 animate-bounce "/>
         </section>
         
     );
